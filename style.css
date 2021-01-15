@@ -1,3 +1,4 @@
+
 .bebus{
     font-family: 'Bebas Neue', cursive;
 }
@@ -69,4 +70,8 @@ h1{
 }
 .sec-part{
     padding-top: 200px;
+}
+.bonus{
+    background-color:pink;
+    border-radius: 1em;
 }
